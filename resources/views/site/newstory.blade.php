@@ -6,7 +6,7 @@
 <div class="container">
 	<div class="row">
 
-        <div id="editor">
+        <div id="editor" class="col-12">
             <div class="section-inner layoutSingleColumn">
                 <h3 class="graf graf--h3 graf--first" name="iocon">Dante Editor</h3>
               
