@@ -38,7 +38,7 @@
 			<a class="nav-link" href="/">Stories <span class="sr-only">(current)</span></a>
 			</li>
 			<li class="nav-item">
-			<a class="nav-link" href="/post">Post</a>
+			<a class="nav-link" href="/new-story">Post</a>
 			</li>
 			<li class="nav-item">
 			<a class="nav-link" href="/author">Author</a>
